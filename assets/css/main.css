@@ -3944,3 +3944,9 @@ p {
     margin: 0 0 2rem 0;
     font-size: 1.2rem;
 }
+.footer_img_container img {
+    max-width: 63px;
+    min-height: 109px;
+    object-fit: contain;
+    margin: 10px;
+}
