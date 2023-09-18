@@ -3950,3 +3950,9 @@ p {
     object-fit: contain;
     margin: 10px;
 }
+html, .section1 {
+    height: 100vh;
+}
+img.logo {
+    max-width: 240px;
+}
