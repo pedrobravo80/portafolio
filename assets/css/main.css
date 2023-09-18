@@ -3924,16 +3924,21 @@ margin-left: 20px
     background: #999999;
     box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.025);
 }
-#text {
-    margin-bottom: 50px;
-    text-align: center;
-}
+
 #text a {
     color: #2dcb2c;
     text-decoration: none;
     font-weight: 200;
     font-size: 1.45em;
     margin-bottom: 10px;
+}
+#text {
+    margin-top: -43px;
+    text-align: center;
+}
+#text_visitar {
+    margin-top: -43px;
+    text-align: center;
 }
 #text_visitar a {
      color: #2dcb2c;
@@ -3950,7 +3955,7 @@ margin-left: 20px
 img {
     max-width: 272px;
     min-width: 57px;
-    margin-left: -14px;
+    margin-left: 0px;
 }
 
 p {
