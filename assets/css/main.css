@@ -3933,11 +3933,11 @@ margin-left: 20px
     margin-bottom: 10px;
 }
 #text {
-    margin-top: -43px;
+    margin-top: 0px;
     text-align: center;
 }
 #text_visitar {
-    margin-top: -43px;
+    margin-top: 0px;
     text-align: center;
 }
 #text_visitar a {
