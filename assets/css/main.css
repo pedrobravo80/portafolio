@@ -3919,15 +3919,27 @@ img {
 .logo_container {
 margin-left: 20px
 }
+
 .highlights .content {
-    background: #5b5b5b;
+    background: #999999;
     box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.025);
+}
+#text {
+    margin-bottom: 50px;
+    text-align: center;
 }
 #text a {
     color: #2dcb2c;
     text-decoration: none;
     font-weight: 200;
     font-size: 1.45em;
+    margin-bottom: 10px;
+}
+#text_visitar a {
+     color: #2dcb2c;
+    text-decoration: none;
+    font-weight: 1000;
+    font-size: 1.9em;
     margin-bottom: 10px;
 }
 @media screen and (max-width: 480px){
@@ -3940,9 +3952,12 @@ img {
     min-width: 57px;
     margin-left: -14px;
 }
+
 p {
     margin: 0 0 2rem 0;
     font-size: 1.2rem;
+    padding: 20px;
+    font-weight: 500;
 }
 .footer_img_container img {
     max-width: 63px;
@@ -3956,14 +3971,22 @@ html, .section1 {
 #logo {
     max-width: 240px;
 }
-.habilidades {
-max-width: 100%;
 
-	border-radius:15px;
+.habilidades {
+    max-width: 100%;
+    border-radius: 15px;
+    height: 201px;
+    object-fit: cover;
 }
+
+
 .content_habilidades {
     background: #999999;
     box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.025);
     display: flex;
     flex-direction: column;
+    text-align: center;
+    border-radius: 20px;
+    min-height: 522px;
+    
 }
