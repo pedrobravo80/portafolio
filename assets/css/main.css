@@ -3876,8 +3876,19 @@ html, .section1 {
 	max-width: 240px;
 }
   .section1::before {
-    content: "3 strings \a 52 chars \a 18.36s duration";
-  }
+  content: "name: Pedro Bravo Sanchez     age: 20     email: bravosanchezpedro80@gmail.com";
+  display: block;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 3px 0;
+  background: #00f;
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 0.7px;
+  white-space: pre-wrap;
+}
 }
 
 * {
