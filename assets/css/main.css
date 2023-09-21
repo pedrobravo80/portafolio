@@ -4017,7 +4017,7 @@ margin-left: 20px
 }
 
 .highlights .content {
-    background: #999999;
+    background: #f2f2f2;
     box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.025);
 }
 
@@ -4037,7 +4037,7 @@ margin-left: 20px
     text-align: center;
 }
 #text_visitar a {
-     color: #2dcb2c;
+   color: #019900;
     text-decoration: none;
     font-weight: 1000;
     font-size: 1.9em;
@@ -4085,7 +4085,7 @@ html, .section1 {
 
 
 .content_habilidades {
-    background: #999999;
+    background: #f2f2f2;
     box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.025);
     display: flex;
     flex-direction: column;
@@ -4097,4 +4097,8 @@ html, .section1 {
 img.habilidades {
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+}
+.highlights .content {
+    background: #f2f2f2;
+    box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.025);
 }
