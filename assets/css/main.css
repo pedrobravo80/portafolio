@@ -4094,3 +4094,7 @@ html, .section1 {
     min-height: 522px;
     
 }
+img.habilidades {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
