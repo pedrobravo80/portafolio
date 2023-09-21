@@ -3858,7 +3858,7 @@ html, .section1 {
   }
 }
 .section1::before {
-  content: "3 strings / 52 chars / 18.36s duration";
+  content: "name: Pedro Bravo Sanchez     age: 20     email: bravosanchezpedro80@gmail.com";
   display: block;
   position: absolute;
   bottom: 0;
