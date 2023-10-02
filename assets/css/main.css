@@ -4113,3 +4113,19 @@ img.habilidades {
     background: #f2f2f2;
     box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.025);
 }
+.highlights {
+    width: 100%;
+    margin: 2.5rem 0;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -moz-flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -moz-align-items: -moz-stretch;
+    -webkit-align-items: -webkit-stretch;
+    -ms-align-items: -ms-stretch;
+    justify-content: space-evenly;
+}
